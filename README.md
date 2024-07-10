@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **zzuxzt/zzuxzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## I am Zhanteng Xie 👋
+- 🎓 I am a PhD candidate in the [**TRAIL**](https://sites.temple.edu/trail/) lab at Temple University
+- 📖 [**Personal Website**](https://sites.google.com/site/zhantengxie/)
+- 📖 [**Google Scholar**](https://scholar.google.com/citations?user=zeO96twAAAAJ&hl=en)
+- 🔭 Robotics
+- ❤  Program language: Python, C, C++, Matlab, Verilog
+
+[![Zhanteng's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/zzuxzt?cardType=octocat&theme=slateorange&preferLogin=false&Ring=DD2727)](https://git.io/awesome-stats-card)
