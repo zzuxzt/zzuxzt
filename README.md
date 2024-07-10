@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## I am Zhanteng Xie 👋
 - 🎓 I am a PhD candidate in the [**TRAIL**](https://sites.temple.edu/trail/) lab at Temple University
-- 📖 [**Personal Website**](https://sites.google.com/site/zhantengxie/)
+- 📫 [**Personal Website**](https://sites.google.com/site/zhantengxie/)
 - 📖 [**Google Scholar**](https://scholar.google.com/citations?user=zeO96twAAAAJ&hl=en)
 - 🔭 Robotics
 - ❤  Program language: Python, C, C++, Matlab, Verilog
