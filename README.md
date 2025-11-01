@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## I am Zhanteng Xie 👋
-- 🎓 I am a Postdoctoral Fellow at the [**TransGP**](https://www.transgp.hk/) and received my Ph.D. from the [**TRAIL**](https://sites.temple.edu/trail/) lab at Temple University
+- 🎓 I am a Postdoctoral Fellow at the [**HKU**](https://www.cds.hku.hk/) and received my Ph.D. from the [**TRAIL**](https://sites.temple.edu/trail/) lab at Temple University
 - 📫 [**Personal Website**](https://sites.google.com/site/zhantengxie/)
 - 📖 [**Google Scholar**](https://scholar.google.com/citations?user=zeO96twAAAAJ&hl=en)
 - 🔭 Robotics
