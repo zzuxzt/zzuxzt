@@ -1,0 +1,43 @@
+{
+  "source_url": "https://awesome-github-stats.azurewebsites.net/user-stats/zzuxzt/rank",
+  "retrieved_at": "2026-11-24T11:36:23Z",
+  "generated_at": "2026-11-24T11:37:48Z",
+  "lastFetch": "2026-11-23T12:58:01.7638495+00:00",
+  "data": {
+    "rankPoints": {
+      "commits": 1,
+      "contributedToNotOwnerRepositories": 10,
+      "contributedToOwnRepositories": 1,
+      "createdRepositories": 1,
+      "directStars": 3.5,
+      "followers": 1,
+      "indirectStars": 1,
+      "issues": 1,
+      "pullRequests": 1,
+      "pullRequestsToAnotherRepositories": 5,
+      "commitsToMyRepositories": 1,
+      "commitsToAnotherRepositories": 10,
+      "contributedTo": 1
+    },
+    "userStats": {
+      "commitsToMyRepositories": 20,
+      "lastFetch": "2026-11-23T12:58:01.7638495+00:00",
+      "login": "zzuxzt",
+      "name": "Zhanteng Xie",
+      "pullRequests": 8,
+      "commits": 253,
+      "commitsToAnotherRepositories": 233,
+      "pullRequestsToAnotherRepositories": 8,
+      "issues": 4,
+      "createdRepositories": 69,
+      "directStars": 9,
+      "indirectStars": 2122,
+      "contributedTo": 26,
+      "contributedToOwnRepositories": 5,
+      "contributedToNotOwnerRepositories": 21,
+      "followers": 33
+    },
+    "level": "A+",
+    "score": 5151.5
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "source_url": "https://github.com/brunobritodev/awesome-github-stats/blob/master/src/AwesomeGithubStats.Api/appsettings.json",
+  "levels": [
+    {
+      "rank": "OMG",
+      "points": 1000000,
+      "count_slice_progress_bar": false
+    },
+    {
+      "rank": "S++",
+      "points": 300000,
+      "count_slice_progress_bar": true
+    },
+    {
+      "rank": "S+",
+      "points": 70000,
+      "count_slice_progress_bar": true
+    },
+    {
+      "rank": "S",
+      "points": 28000,
+      "count_slice_progress_bar": true
+    },
+    {
+      "rank": "S-",
+      "points": 21000,
+      "count_slice_progress_bar": true
+    },
+    {
+      "rank": "A++",
+      "points": 14000,
+      "count_slice_progress_bar": true
+    },
+    {
+      "rank": "A+",
+      "points": 1500,
+      "count_slice_progress_bar": true
+    },
+    {
+      "rank": "A",
+      "points": 500,
+      "count_slice_progress_bar": true
+    },
+    {
+      "rank": "❣️",
+      "points": 0,
+      "count_slice_progress_bar": true
+    }
+  ]
+}
