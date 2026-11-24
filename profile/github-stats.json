@@ -1,8 +1,10 @@
 {
-  "source_url": "https://awesome-github-stats.azurewebsites.net/user-stats/zzuxzt/rank",
-  "retrieved_at": "2026-11-24T11:36:23Z",
-  "generated_at": "2026-11-24T11:37:48Z",
-  "lastFetch": "2026-11-23T12:58:01.7638495+00:00",
+  "schema_version": 2,
+  "source_url": "https://api.github.com/graphql",
+  "retrieval_mode": "github-api",
+  "retrieved_at": "2026-11-24T12:11:32Z",
+  "generated_at": "2026-11-24T12:11:32Z",
+  "lastFetch": "2026-11-24T12:11:32Z",
   "data": {
     "rankPoints": {
       "commits": 1,
@@ -20,24 +22,832 @@
       "contributedTo": 1
     },
     "userStats": {
-      "commitsToMyRepositories": 20,
-      "lastFetch": "2026-11-23T12:58:01.7638495+00:00",
       "login": "zzuxzt",
       "name": "Zhanteng Xie",
       "pullRequests": 8,
-      "commits": 253,
-      "commitsToAnotherRepositories": 233,
-      "pullRequestsToAnotherRepositories": 8,
       "issues": 4,
+      "followers": 33,
+      "lastFetch": "2026-11-24T12:11:32Z",
+      "commits": 255,
       "createdRepositories": 69,
+      "commitsToMyRepositories": 19,
+      "commitsToAnotherRepositories": 236,
+      "pullRequestsToAnotherRepositories": 8,
       "directStars": 9,
-      "indirectStars": 2122,
+      "indirectStars": 2123,
       "contributedTo": 26,
       "contributedToOwnRepositories": 5,
-      "contributedToNotOwnerRepositories": 21,
-      "followers": 33
+      "contributedToNotOwnerRepositories": 21
     },
     "level": "A+",
-    "score": 5151.5
+    "score": 5183.5,
+    "repositories": [
+      {
+        "id": "R_kgDOOjv5iQ",
+        "name": "nav2py_drlvo",
+        "nameWithOwner": "Arena-Rosnav/nav2py_drlvo",
+        "owner": "Arena-Rosnav",
+        "stars": 2,
+        "isOwn": false,
+        "legacyFirstContributionCount": 1,
+        "sources": [
+          {
+            "year": 2025,
+            "type": "pr",
+            "contributionCount": 1,
+            "observedStars": 2
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOHO1IqA",
+        "name": "als_ros",
+        "nameWithOwner": "NaokiAkai/als_ros",
+        "owner": "NaokiAkai",
+        "stars": 363,
+        "isOwn": false,
+        "legacyFirstContributionCount": 1,
+        "sources": [
+          {
+            "year": 2022,
+            "type": "commit",
+            "contributionCount": 1,
+            "observedStars": 363
+          },
+          {
+            "year": 2022,
+            "type": "pr",
+            "contributionCount": 1,
+            "observedStars": 363
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOPIPjqA",
+        "name": "StreamVLN",
+        "nameWithOwner": "Sage-PhysicalAI/StreamVLN",
+        "owner": "Sage-PhysicalAI",
+        "stars": 648,
+        "isOwn": false,
+        "legacyFirstContributionCount": 1,
+        "sources": [
+          {
+            "year": 2025,
+            "type": "pr",
+            "contributionCount": 1,
+            "observedStars": 648
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOLmWH8g",
+        "name": "awesome-robot-social-navigation",
+        "nameWithOwner": "Shuijing725/awesome-robot-social-navigation",
+        "owner": "Shuijing725",
+        "stars": 476,
+        "isOwn": false,
+        "legacyFirstContributionCount": 1,
+        "sources": [
+          {
+            "year": 2026,
+            "type": "commit",
+            "contributionCount": 1,
+            "observedStars": 476
+          },
+          {
+            "year": 2026,
+            "type": "pr",
+            "contributionCount": 1,
+            "observedStars": 476
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOO55ImA",
+        "name": "cnn_nav",
+        "nameWithOwner": "TempleRAIL/cnn_nav",
+        "owner": "TempleRAIL",
+        "stars": 4,
+        "isOwn": false,
+        "legacyFirstContributionCount": 1,
+        "sources": [
+          {
+            "year": 2026,
+            "type": "commit",
+            "contributionCount": 1,
+            "observedStars": 4
+          },
+          {
+            "year": 2025,
+            "type": "commit",
+            "contributionCount": 2,
+            "observedStars": 4
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOG00Bwg",
+        "name": "darknet_ros_with_pose",
+        "nameWithOwner": "TempleRAIL/darknet_ros_with_pose",
+        "owner": "TempleRAIL",
+        "stars": 4,
+        "isOwn": false,
+        "legacyFirstContributionCount": 1,
+        "sources": [
+          {
+            "year": 2024,
+            "type": "commit",
+            "contributionCount": 1,
+            "observedStars": 4
+          },
+          {
+            "year": 2022,
+            "type": "commit",
+            "contributionCount": 3,
+            "observedStars": 4
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOG2667Q",
+        "name": "drl_vo_nav",
+        "nameWithOwner": "TempleRAIL/drl_vo_nav",
+        "owner": "TempleRAIL",
+        "stars": 334,
+        "isOwn": false,
+        "legacyFirstContributionCount": 1,
+        "sources": [
+          {
+            "year": 2025,
+            "type": "commit",
+            "contributionCount": 1,
+            "observedStars": 334
+          },
+          {
+            "year": 2024,
+            "type": "commit",
+            "contributionCount": 12,
+            "observedStars": 334
+          },
+          {
+            "year": 2023,
+            "type": "commit",
+            "contributionCount": 14,
+            "observedStars": 334
+          },
+          {
+            "year": 2022,
+            "type": "commit",
+            "contributionCount": 7,
+            "observedStars": 334
+          }
+        ]
+      },
+      {
+        "id": "MDEwOlJlcG9zaXRvcnkzMTU0NjE3Mjk=",
+        "name": "followbot",
+        "nameWithOwner": "TempleRAIL/followbot",
+        "owner": "TempleRAIL",
+        "stars": 6,
+        "isOwn": false,
+        "legacyFirstContributionCount": 16,
+        "sources": [
+          {
+            "year": 2021,
+            "type": "commit",
+            "contributionCount": 16,
+            "observedStars": 6
+          },
+          {
+            "year": 2020,
+            "type": "commit",
+            "contributionCount": 13,
+            "observedStars": 6
+          },
+          {
+            "year": 2021,
+            "type": "pr",
+            "contributionCount": 1,
+            "observedStars": 6
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOHLuxfQ",
+        "name": "nav-competition-icra2022-drl-vo",
+        "nameWithOwner": "TempleRAIL/nav-competition-icra2022-drl-vo",
+        "owner": "TempleRAIL",
+        "stars": 35,
+        "isOwn": false,
+        "legacyFirstContributionCount": 2,
+        "sources": [
+          {
+            "year": 2024,
+            "type": "commit",
+            "contributionCount": 2,
+            "observedStars": 35
+          },
+          {
+            "year": 2023,
+            "type": "commit",
+            "contributionCount": 3,
+            "observedStars": 35
+          },
+          {
+            "year": 2022,
+            "type": "commit",
+            "contributionCount": 9,
+            "observedStars": 35
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOHQeONg",
+        "name": "occupancy_grid_mapping_torch",
+        "nameWithOwner": "TempleRAIL/occupancy_grid_mapping_torch",
+        "owner": "TempleRAIL",
+        "stars": 8,
+        "isOwn": false,
+        "legacyFirstContributionCount": 2,
+        "sources": [
+          {
+            "year": 2023,
+            "type": "commit",
+            "contributionCount": 2,
+            "observedStars": 8
+          },
+          {
+            "year": 2022,
+            "type": "commit",
+            "contributionCount": 9,
+            "observedStars": 8
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOG24Cww",
+        "name": "pedsim_ros_with_gazebo",
+        "nameWithOwner": "TempleRAIL/pedsim_ros_with_gazebo",
+        "owner": "TempleRAIL",
+        "stars": 89,
+        "isOwn": false,
+        "legacyFirstContributionCount": 6,
+        "sources": [
+          {
+            "year": 2024,
+            "type": "commit",
+            "contributionCount": 6,
+            "observedStars": 89
+          },
+          {
+            "year": 2023,
+            "type": "commit",
+            "contributionCount": 5,
+            "observedStars": 89
+          },
+          {
+            "year": 2022,
+            "type": "commit",
+            "contributionCount": 3,
+            "observedStars": 89
+          },
+          {
+            "year": 2024,
+            "type": "pr",
+            "contributionCount": 1,
+            "observedStars": 89
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOG00VEg",
+        "name": "robot_gazebo",
+        "nameWithOwner": "TempleRAIL/robot_gazebo",
+        "owner": "TempleRAIL",
+        "stars": 8,
+        "isOwn": false,
+        "legacyFirstContributionCount": 5,
+        "sources": [
+          {
+            "year": 2023,
+            "type": "commit",
+            "contributionCount": 5,
+            "observedStars": 8
+          },
+          {
+            "year": 2022,
+            "type": "commit",
+            "contributionCount": 5,
+            "observedStars": 8
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOPBhH1g",
+        "name": "s3_net",
+        "nameWithOwner": "TempleRAIL/s3_net",
+        "owner": "TempleRAIL",
+        "stars": 1,
+        "isOwn": false,
+        "legacyFirstContributionCount": 4,
+        "sources": [
+          {
+            "year": 2026,
+            "type": "commit",
+            "contributionCount": 4,
+            "observedStars": 1
+          },
+          {
+            "year": 2025,
+            "type": "commit",
+            "contributionCount": 1,
+            "observedStars": 1
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOMOVvKw",
+        "name": "scope",
+        "nameWithOwner": "TempleRAIL/scope",
+        "owner": "TempleRAIL",
+        "stars": 18,
+        "isOwn": false,
+        "legacyFirstContributionCount": 2,
+        "sources": [
+          {
+            "year": 2025,
+            "type": "commit",
+            "contributionCount": 2,
+            "observedStars": 18
+          },
+          {
+            "year": 2024,
+            "type": "commit",
+            "contributionCount": 2,
+            "observedStars": 18
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOMOV43Q",
+        "name": "scope_nav",
+        "nameWithOwner": "TempleRAIL/scope_nav",
+        "owner": "TempleRAIL",
+        "stars": 45,
+        "isOwn": false,
+        "legacyFirstContributionCount": 2,
+        "sources": [
+          {
+            "year": 2026,
+            "type": "commit",
+            "contributionCount": 2,
+            "observedStars": 45
+          },
+          {
+            "year": 2025,
+            "type": "commit",
+            "contributionCount": 2,
+            "observedStars": 45
+          },
+          {
+            "year": 2024,
+            "type": "commit",
+            "contributionCount": 5,
+            "observedStars": 45
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOMuQ8Fg",
+        "name": "semantic2d",
+        "nameWithOwner": "TempleRAIL/semantic2d",
+        "owner": "TempleRAIL",
+        "stars": 29,
+        "isOwn": false,
+        "legacyFirstContributionCount": 8,
+        "sources": [
+          {
+            "year": 2026,
+            "type": "commit",
+            "contributionCount": 8,
+            "observedStars": 29
+          },
+          {
+            "year": 2025,
+            "type": "commit",
+            "contributionCount": 8,
+            "observedStars": 29
+          },
+          {
+            "year": 2024,
+            "type": "commit",
+            "contributionCount": 3,
+            "observedStars": 29
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOPd-r4Q",
+        "name": "semantic_cnn_nav",
+        "nameWithOwner": "TempleRAIL/semantic_cnn_nav",
+        "owner": "TempleRAIL",
+        "stars": 2,
+        "isOwn": false,
+        "legacyFirstContributionCount": 2,
+        "sources": [
+          {
+            "year": 2026,
+            "type": "commit",
+            "contributionCount": 2,
+            "observedStars": 2
+          },
+          {
+            "year": 2025,
+            "type": "commit",
+            "contributionCount": 1,
+            "observedStars": 2
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOH3P-Wg",
+        "name": "SOGMP",
+        "nameWithOwner": "TempleRAIL/SOGMP",
+        "owner": "TempleRAIL",
+        "stars": 40,
+        "isOwn": false,
+        "legacyFirstContributionCount": 3,
+        "sources": [
+          {
+            "year": 2025,
+            "type": "commit",
+            "contributionCount": 3,
+            "observedStars": 40
+          },
+          {
+            "year": 2024,
+            "type": "commit",
+            "contributionCount": 2,
+            "observedStars": 40
+          },
+          {
+            "year": 2023,
+            "type": "commit",
+            "contributionCount": 8,
+            "observedStars": 40
+          },
+          {
+            "year": 2022,
+            "type": "commit",
+            "contributionCount": 6,
+            "observedStars": 40
+          },
+          {
+            "year": 2025,
+            "type": "pr",
+            "contributionCount": 1,
+            "observedStars": 40
+          },
+          {
+            "year": 2024,
+            "type": "pr",
+            "contributionCount": 1,
+            "observedStars": 40
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOGY6wlg",
+        "name": "sphd_sensor_models",
+        "nameWithOwner": "TempleRAIL/sphd_sensor_models",
+        "owner": "TempleRAIL",
+        "stars": 4,
+        "isOwn": false,
+        "legacyFirstContributionCount": 1,
+        "sources": [
+          {
+            "year": 2023,
+            "type": "commit",
+            "contributionCount": 1,
+            "observedStars": 4
+          },
+          {
+            "year": 2022,
+            "type": "commit",
+            "contributionCount": 3,
+            "observedStars": 4
+          },
+          {
+            "year": 2021,
+            "type": "commit",
+            "contributionCount": 6,
+            "observedStars": 4
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOOp9BEQ",
+        "name": "tu_thesis_template",
+        "nameWithOwner": "TempleRAIL/tu_thesis_template",
+        "owner": "TempleRAIL",
+        "stars": 0,
+        "isOwn": false,
+        "legacyFirstContributionCount": 3,
+        "sources": [
+          {
+            "year": 2025,
+            "type": "commit",
+            "contributionCount": 3,
+            "observedStars": 0
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOGYoviA",
+        "name": "yolov3_bottle_detector",
+        "nameWithOwner": "TempleRAIL/yolov3_bottle_detector",
+        "owner": "TempleRAIL",
+        "stars": 7,
+        "isOwn": false,
+        "legacyFirstContributionCount": 1,
+        "sources": [
+          {
+            "year": 2023,
+            "type": "commit",
+            "contributionCount": 1,
+            "observedStars": 7
+          },
+          {
+            "year": 2022,
+            "type": "commit",
+            "contributionCount": 4,
+            "observedStars": 7
+          },
+          {
+            "year": 2021,
+            "type": "commit",
+            "contributionCount": 9,
+            "observedStars": 7
+          }
+        ]
+      },
+      {
+        "id": "MDEwOlJlcG9zaXRvcnkyMzQ0MzA0NTk=",
+        "name": "kobuki_msgs",
+        "nameWithOwner": "zzuxzt/kobuki_msgs",
+        "owner": "zzuxzt",
+        "stars": 0,
+        "isOwn": true,
+        "legacyFirstContributionCount": 3,
+        "sources": [
+          {
+            "year": 2020,
+            "type": "commit",
+            "contributionCount": 3,
+            "observedStars": 0
+          }
+        ]
+      },
+      {
+        "id": "MDEwOlJlcG9zaXRvcnkzNzQxOTc5ODk=",
+        "name": "mmdetection_solo_cpu",
+        "nameWithOwner": "zzuxzt/mmdetection_solo_cpu",
+        "owner": "zzuxzt",
+        "stars": 0,
+        "isOwn": true,
+        "legacyFirstContributionCount": 12,
+        "sources": [
+          {
+            "year": 2021,
+            "type": "commit",
+            "contributionCount": 12,
+            "observedStars": 0
+          }
+        ]
+      },
+      {
+        "id": "MDEwOlJlcG9zaXRvcnkzMzkyMDY0NzU=",
+        "name": "turtlebot2_noetic_packages",
+        "nameWithOwner": "zzuxzt/turtlebot2_noetic_packages",
+        "owner": "zzuxzt",
+        "stars": 5,
+        "isOwn": true,
+        "legacyFirstContributionCount": 1,
+        "sources": [
+          {
+            "year": 2025,
+            "type": "commit",
+            "contributionCount": 1,
+            "observedStars": 5
+          },
+          {
+            "year": 2021,
+            "type": "commit",
+            "contributionCount": 16,
+            "observedStars": 5
+          }
+        ]
+      },
+      {
+        "id": "MDEwOlJlcG9zaXRvcnkzNzQxOTQ0OTI=",
+        "name": "yolact_cpu",
+        "nameWithOwner": "zzuxzt/yolact_cpu",
+        "owner": "zzuxzt",
+        "stars": 3,
+        "isOwn": true,
+        "legacyFirstContributionCount": 1,
+        "sources": [
+          {
+            "year": 2022,
+            "type": "commit",
+            "contributionCount": 1,
+            "observedStars": 3
+          },
+          {
+            "year": 2021,
+            "type": "commit",
+            "contributionCount": 7,
+            "observedStars": 3
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOMUipYA",
+        "name": "zzuxzt",
+        "nameWithOwner": "zzuxzt/zzuxzt",
+        "owner": "zzuxzt",
+        "stars": 1,
+        "isOwn": true,
+        "legacyFirstContributionCount": 2,
+        "sources": [
+          {
+            "year": 2026,
+            "type": "commit",
+            "contributionCount": 2,
+            "observedStars": 1
+          },
+          {
+            "year": 2025,
+            "type": "commit",
+            "contributionCount": 3,
+            "observedStars": 1
+          },
+          {
+            "year": 2024,
+            "type": "commit",
+            "contributionCount": 3,
+            "observedStars": 1
+          }
+        ]
+      }
+    ],
+    "source_url": "https://api.github.com/graphql",
+    "source": {
+      "provider": "GitHub GraphQL API",
+      "endpoint": "https://api.github.com/graphql",
+      "fetchedAt": "2026-11-24T12:11:32Z",
+      "years": [
+        2026,
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019,
+        2018,
+        2017,
+        2016
+      ],
+      "yearRanges": [
+        {
+          "year": 2026,
+          "from": "2026-01-01T00:00:00Z",
+          "to": "2026-11-24T12:11:27Z",
+          "commitRepositories": 7,
+          "pullRequestRepositories": 1,
+          "totalCommitContributions": 20,
+          "restrictedContributionsCount": 0,
+          "totalRepositoryContributions": 2
+        },
+        {
+          "year": 2025,
+          "from": "2025-01-01T00:00:00Z",
+          "to": "2025-12-31T23:59:59Z",
+          "commitRepositories": 11,
+          "pullRequestRepositories": 3,
+          "totalCommitContributions": 27,
+          "restrictedContributionsCount": 0,
+          "totalRepositoryContributions": 2
+        },
+        {
+          "year": 2024,
+          "from": "2024-01-01T00:00:00Z",
+          "to": "2024-12-31T23:59:59Z",
+          "commitRepositories": 9,
+          "pullRequestRepositories": 2,
+          "totalCommitContributions": 36,
+          "restrictedContributionsCount": 0,
+          "totalRepositoryContributions": 1
+        },
+        {
+          "year": 2023,
+          "from": "2023-01-01T00:00:00Z",
+          "to": "2023-12-31T23:59:59Z",
+          "commitRepositories": 8,
+          "pullRequestRepositories": 0,
+          "totalCommitContributions": 39,
+          "restrictedContributionsCount": 0,
+          "totalRepositoryContributions": 0
+        },
+        {
+          "year": 2022,
+          "from": "2022-01-01T00:00:00Z",
+          "to": "2022-12-31T23:59:59Z",
+          "commitRepositories": 11,
+          "pullRequestRepositories": 1,
+          "totalCommitContributions": 51,
+          "restrictedContributionsCount": 0,
+          "totalRepositoryContributions": 2
+        },
+        {
+          "year": 2021,
+          "from": "2021-01-01T00:00:00Z",
+          "to": "2021-12-31T23:59:59Z",
+          "commitRepositories": 6,
+          "pullRequestRepositories": 1,
+          "totalCommitContributions": 66,
+          "restrictedContributionsCount": 0,
+          "totalRepositoryContributions": 4
+        },
+        {
+          "year": 2020,
+          "from": "2020-01-01T00:00:00Z",
+          "to": "2020-12-31T23:59:59Z",
+          "commitRepositories": 2,
+          "pullRequestRepositories": 0,
+          "totalCommitContributions": 16,
+          "restrictedContributionsCount": 0,
+          "totalRepositoryContributions": 26
+        },
+        {
+          "year": 2019,
+          "from": "2019-01-01T00:00:00Z",
+          "to": "2019-12-31T23:59:59Z",
+          "commitRepositories": 0,
+          "pullRequestRepositories": 0,
+          "totalCommitContributions": 0,
+          "restrictedContributionsCount": 0,
+          "totalRepositoryContributions": 8
+        },
+        {
+          "year": 2018,
+          "from": "2018-01-01T00:00:00Z",
+          "to": "2018-12-31T23:59:59Z",
+          "commitRepositories": 0,
+          "pullRequestRepositories": 0,
+          "totalCommitContributions": 0,
+          "restrictedContributionsCount": 0,
+          "totalRepositoryContributions": 24
+        },
+        {
+          "year": 2017,
+          "from": "2017-01-01T00:00:00Z",
+          "to": "2017-12-31T23:59:59Z",
+          "commitRepositories": 0,
+          "pullRequestRepositories": 0,
+          "totalCommitContributions": 0,
+          "restrictedContributionsCount": 0,
+          "totalRepositoryContributions": 0
+        },
+        {
+          "year": 2016,
+          "from": "2016-01-01T00:00:00Z",
+          "to": "2016-12-31T23:59:59Z",
+          "commitRepositories": 0,
+          "pullRequestRepositories": 0,
+          "totalCommitContributions": 0,
+          "restrictedContributionsCount": 0,
+          "totalRepositoryContributions": 0
+        }
+      ],
+      "repositoryLimitPerYearPerType": 100,
+      "repositoryListsCheckedAgainstTotals": true,
+      "repositoryVisibility": "public; private repository identities are rejected",
+      "starsDefinition": "Current stars of the unique union of commit and PR contribution repositories across all reported years",
+      "legacySemantics": {
+        "commits": "Sum of yearly totalCommitContributions plus restrictedContributionsCount; restricted contributions are not necessarily all commits",
+        "commitsToMyRepositories": "Sum of each owned repository's first retained contributions.totalCount across years, with commit records preferred over PR records; this is not an all-time per-owner sum",
+        "pullRequests": "All-time user.pullRequests.totalCount, all PR states",
+        "issues": "All-time user.issues.totalCount",
+        "rank": "Original default RankPoints and bundled rank-config.json"
+      },
+      "differencesFromOriginal": [
+        "Stable GitHub repository IDs deduplicate repositories even if names or owners change between requests",
+        "Ownership uses actual owner.login, not a substring match on nameWithOwner",
+        "100 repository rows per year/type instead of the original default 25; incomplete lists fail closed",
+        "UTC calendar-year intervals do not overlap; the current year ends at fetch start"
+      ]
+    }
   }
 }
