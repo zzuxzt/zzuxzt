@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🔭 Robotics
 - ❤  Program language: Python, C, C++, Matlab, Verilog
 
-[![Zhanteng's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/zzuxzt?cardType=octocat&theme=slateorange&preferLogin=false&Ring=DD2727)](https://git.io/awesome-stats-card)
+[![Zhanteng's GitHub Stats](https://github-stats-extended.vercel.app/api?username=zzuxzt&show_icons=true&theme=slateorange&rank_icon=github&ring_color=DD2727&custom_title=Zhanteng%27s%20GitHub%20Stats)](https://github.com/zzuxzt)
