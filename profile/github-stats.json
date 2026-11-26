@@ -2,9 +2,9 @@
   "schema_version": 2,
   "source_url": "https://api.github.com/graphql",
   "retrieval_mode": "github-api",
-  "retrieved_at": "2026-11-25T09:53:40Z",
-  "generated_at": "2026-11-25T09:53:40Z",
-  "lastFetch": "2026-11-25T09:53:40Z",
+  "retrieved_at": "2026-11-26T09:36:45Z",
+  "generated_at": "2026-11-26T09:36:45Z",
+  "lastFetch": "2026-11-26T09:36:45Z",
   "data": {
     "rankPoints": {
       "commits": 1,
@@ -27,20 +27,20 @@
       "pullRequests": 8,
       "issues": 4,
       "followers": 33,
-      "lastFetch": "2026-11-25T09:53:40Z",
+      "lastFetch": "2026-11-26T09:36:45Z",
       "commits": 255,
       "createdRepositories": 69,
       "commitsToMyRepositories": 19,
       "commitsToAnotherRepositories": 236,
       "pullRequestsToAnotherRepositories": 8,
       "directStars": 9,
-      "indirectStars": 2123,
+      "indirectStars": 2124,
       "contributedTo": 26,
       "contributedToOwnRepositories": 5,
       "contributedToNotOwnerRepositories": 21
     },
     "level": "A+",
-    "score": 5183.5,
+    "score": 5184.5,
     "repositories": [
       {
         "id": "R_kgDOOjv5iQ",
@@ -87,7 +87,7 @@
         "name": "StreamVLN",
         "nameWithOwner": "Sage-PhysicalAI/StreamVLN",
         "owner": "Sage-PhysicalAI",
-        "stars": 648,
+        "stars": 650,
         "isOwn": false,
         "legacyFirstContributionCount": 1,
         "sources": [
@@ -95,7 +95,7 @@
             "year": 2025,
             "type": "pr",
             "contributionCount": 1,
-            "observedStars": 648
+            "observedStars": 650
           }
         ]
       },
@@ -237,7 +237,7 @@
         "name": "nav-competition-icra2022-drl-vo",
         "nameWithOwner": "TempleRAIL/nav-competition-icra2022-drl-vo",
         "owner": "TempleRAIL",
-        "stars": 35,
+        "stars": 34,
         "isOwn": false,
         "legacyFirstContributionCount": 2,
         "sources": [
@@ -245,19 +245,19 @@
             "year": 2024,
             "type": "commit",
             "contributionCount": 2,
-            "observedStars": 35
+            "observedStars": 34
           },
           {
             "year": 2023,
             "type": "commit",
             "contributionCount": 3,
-            "observedStars": 35
+            "observedStars": 34
           },
           {
             "year": 2022,
             "type": "commit",
             "contributionCount": 9,
-            "observedStars": 35
+            "observedStars": 34
           }
         ]
       },
@@ -705,7 +705,7 @@
     "source": {
       "provider": "GitHub GraphQL API",
       "endpoint": "https://api.github.com/graphql",
-      "fetchedAt": "2026-11-25T09:53:40Z",
+      "fetchedAt": "2026-11-26T09:36:45Z",
       "years": [
         2026,
         2025,
@@ -723,7 +723,7 @@
         {
           "year": 2026,
           "from": "2026-01-01T00:00:00Z",
-          "to": "2026-11-25T09:53:35Z",
+          "to": "2026-11-26T09:36:38Z",
           "commitRepositories": 7,
           "pullRequestRepositories": 1,
           "totalCommitContributions": 20,
